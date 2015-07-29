@@ -21,4 +21,4 @@ Applicants should have:
 - Bachelor’s degree or equivalent work experience.
 
 
-**To apply**, send a resume, links to significant work and your Github handle to dmnjobs@dallasnews.com
+**To apply**, send a resume, links to significant work and your Github handle to dmnjobs@dallasnews.com.
