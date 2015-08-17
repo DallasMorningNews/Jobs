@@ -22,9 +22,13 @@ Create metrics reports and other feedback loops to measure project impact.
 Adhere to (or improve!) corporate usability, design and branding standards.
 Job Specifications
 
-#### Education: Bachelor’s degree or equivalent work experience.
+#### Education: 
 
-#### Experience: At least 2 years experience designing and building data-backed MVC web applications.
+Bachelor’s degree or equivalent work experience.
+
+#### Experience: 
+
+At least 2 years experience designing and building data-backed MVC web applications.
 
 #### Skills:
 
