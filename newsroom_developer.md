@@ -12,14 +12,14 @@ The right candidate will excel at cultivating ideas alongside journalists and ea
 
 #### Responsibilities/Duties:
 
-Conceive, develop, test and successfully deploy web applications.
-Effectively manage multiple project development cycles from conception to execution and consistently meet deadlines.
-Write clean code with an emphasis on documentation and open source standards.
-Refactor code according to frequently changing requirements and respond promptly to errors and bug reports.
-Coordinate with journalists, other developers and web producers in the newsroom.
-Quote accurate estimates of delivery dates.
-Create metrics reports and other feedback loops to measure project impact.
-Adhere to (or improve!) corporate usability, design and branding standards.
+- Conceive, develop, test and successfully deploy web applications.
+- Effectively manage multiple project development cycles from conception to execution and consistently meet deadlines.
+- Write clean code with an emphasis on documentation and open source standards.
+- Refactor code according to frequently changing requirements and respond promptly to errors and bug reports.
+- Coordinate with journalists, other developers and web producers in the newsroom.
+- Quote accurate estimates of delivery dates.
+- Create metrics reports and other feedback loops to measure project impact.
+- Adhere to (or improve!) corporate usability, design and branding standards.
 
 #### Education: 
 
@@ -31,11 +31,11 @@ At least 2 years experience designing and building data-backed MVC web applicati
 
 #### Skills:
 
-Excellent front end development skills: HTML5, CSS3, JavaScript, etc.
-Fluency in at least one modern web development framework. (Django is _The News_' preferred flavor, but Ruby, Node.js and others are welcome.)
-Excellent UI and design principles.
-Experience producing open source software is a plus.
-Ability to work closely with clients during development
+- Excellent front end development skills: HTML5, CSS3, JavaScript, etc.
+- Fluency in at least one modern web development framework. (Django is _The News_' preferred flavor, but Ruby, Node.js and others are welcome.)
+- Excellent UI and design principles.
+- Experience producing open source software is a plus.
+- Ability to work closely with clients during development
 
 ## To Apply!
 Send your resume, links to significant work and your github handle to dmnjobs@dallasnews.com
