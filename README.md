@@ -13,3 +13,5 @@ We make [open source software](https://github.com/DallasMorningNews/django-rolod
 ### [Computational Journalist](computational_journalist.md)
 
 ### [Interactive Editor](interactive_editor.md)
+
+### [Newsroom Developer](newsroom_developer.md)
