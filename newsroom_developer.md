@@ -24,7 +24,7 @@ Job Specifications
 
 #### Education: Bachelor’s degree or equivalent work experience.
 
-Experience: At least 2 years experience designing and building data-backed MVC web applications.
+#### Experience: At least 2 years experience designing and building data-backed MVC web applications.
 
 #### Skills:
 
