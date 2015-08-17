@@ -36,3 +36,6 @@ Fluency in at least one modern web development framework. (Django is _The News_'
 Excellent UI and design principles.
 Experience producing open source software is a plus.
 Ability to work closely with clients during development
+
+## To Apply!
+Send your resume, links to significant work and you github handle to dmnjobs@dallasnews.com
