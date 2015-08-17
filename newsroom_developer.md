@@ -39,3 +39,6 @@ At least 2 years experience designing and building data-backed MVC web applicati
 
 ## To Apply!
 Send your resume, links to significant work and your github handle to dmnjobs@dallasnews.com
+
+### Questions?
+-----> jmcclure@dallasnews.com
