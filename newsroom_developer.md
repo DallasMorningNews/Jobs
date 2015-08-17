@@ -20,7 +20,6 @@ Coordinate with journalists, other developers and web producers in the newsroom.
 Quote accurate estimates of delivery dates.
 Create metrics reports and other feedback loops to measure project impact.
 Adhere to (or improve!) corporate usability, design and branding standards.
-Job Specifications
 
 #### Education: 
 
