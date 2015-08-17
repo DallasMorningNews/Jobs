@@ -33,7 +33,7 @@ At least 2 years experience designing and building data-backed MVC web applicati
 #### Skills:
 
 Excellent front end development skills: HTML5, CSS3, JavaScript, etc.
-Fluency in at least one modern web development framework. (Django is The News' preferred flavor, but Ruby, Node.js and others are welcome.)
+Fluency in at least one modern web development framework. (Django is _The News_' preferred flavor, but Ruby, Node.js and others are welcome.)
 Excellent UI and design principles.
 Experience producing open source software is a plus.
 Ability to work closely with clients during development
