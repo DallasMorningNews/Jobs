@@ -38,4 +38,4 @@ Experience producing open source software is a plus.
 Ability to work closely with clients during development
 
 ## To Apply!
-Send your resume, links to significant work and you github handle to dmnjobs@dallasnews.com
+Send your resume, links to significant work and your github handle to dmnjobs@dallasnews.com
