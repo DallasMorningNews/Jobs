@@ -14,9 +14,9 @@ Applicants should:
 - Have at least one year of experience turning careful, data-driven analyses into compelling graphics and dataviz using a web-native visualization library like D3.js.
 - Be proficient with front-end technologies, HTML, CSS and JavaScript. Experience with a front-end JavaScript framework like Backbone or Angular is a plus.
 - Have experience cleaning complex datasets for analysis and visualization, hopefully within a web-standard database like PostgreSQL.
-- Sound understanding of basic statistical principles. Competence with statistical software like R and dataviz packages like ggplot2 earns bonus points.
-- Experience producing clean code and collaborating on development projects. Made open-source software before? Awesome. Tell us about it.
-- Bachelor’s degree or equivalent work experience.
+- Have sound understanding of basic statistical principles. Competence with statistical software like R and dataviz packages like ggplot2 earns bonus points.
+- Have experience producing clean code and collaborating on development projects. Made open-source software before? Awesome. Tell us about it.
+- Have Bachelor’s degree or equivalent work experience.
 
 **To apply**, send a resume, links to significant work and your Github handle to dmnjobs@dallasnews.com.
 
