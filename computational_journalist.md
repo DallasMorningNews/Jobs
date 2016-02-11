@@ -20,4 +20,4 @@ Applicants should:
 
 **To apply**, send a resume, links to significant work and your Github handle to dmnjobs@dallasnews.com.
 
-Questions? 
+Questions? Contact Jon McClure at jmcclure@dallasnews.com or submit an issue on this repository.
