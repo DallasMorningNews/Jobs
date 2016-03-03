@@ -20,6 +20,6 @@ Applicants should:
 - Have experience producing clean code and collaborating on development projects. Made open-source software before? Awesome. Tell us about it.
 - Have a Bachelor’s degree or equivalent work experience.
 
-**To apply**, send a resume, links to significant work and your Github handle to dmnjobs@dallasnews.com.
+Interested? Apply [here](https://ahbelo.mua.hrdepartment.com/hr/ats/Posting/view/119) and also please send a note about your interest and links to relevant code work to jmcclure@dallasnews.com.
 
 Questions? Contact Jon McClure at jmcclure@dallasnews.com or submit an issue on this repository.
