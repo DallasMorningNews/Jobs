@@ -15,10 +15,10 @@ The right candidate has sound news judgment, is a facile writer of code and copy
 
 Our preferred applicant:
 
-- Has worked as a newsroom data journalist/developer for 3 years or more.
+- Has worked as a newsroom data journalist or newsroom developer for 3 years or more.
 - Has some management experience and a strong sense of vision for this work.
 - Is well versed in open records laws and has successfully negotiated complex data requests before.
-- Has solid data analysis skills including statistical applications.
+- Has solid data analysis skills including applied statistics.
 - Is competent in at least one modern programming language and one modern server-side web development framework. (Python/Django is _The News’_ preferred combo.)
 - Is a competent front-end developer with a good sense of design.
 - Has a Bachelor’s degree or equivalent work experience.
