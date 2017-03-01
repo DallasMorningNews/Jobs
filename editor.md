@@ -15,7 +15,7 @@ The right candidate has sound news judgment, is a facile writer of code and copy
 
 Our preferred applicant:
 
-- Has worked as a newsroom data journalist or newsroom developer for 3 years or more.
+- Has worked as a data journalist or newsroom developer for 3 years or more.
 - Has some management experience and a strong sense of vision for this work.
 - Is well versed in open records laws and has successfully negotiated complex data requests before.
 - Has solid data analysis skills including applied statistics.
