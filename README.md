@@ -6,4 +6,4 @@ We are a collection of developers, designers and data journalists writing code t
 
 ## Want to join us? We've got seats open:
 
-### [Data and News Applications Editor](editor.md)
+### [Computational Journalist](computational-journalist.md)
