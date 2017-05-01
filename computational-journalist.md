@@ -17,3 +17,11 @@ The right candidate has sound news judgment, is a facile writer of code (and som
 - Have sound understanding of basic statistical principles. Competence with statistical software like R and dataviz packages like ggplot2 earns bonus points.
 - Have experience producing clean code with clear documentation and collaborating on development projects. Made open-source software before? Awesome. Tell us about it.
 - Have a Bachelor's degree or equivalent work experience.
+
+Interested? Questions? Contact John Hancock at jhancock@dallasnewscom or [@Hancock_JohnD](https://twitter.com/hancock_johnd). Also, feel free to reaching out to anyone on our team for questions: 
+
+- [Andrew Chavez](https://twitter.com/adchavez)
+- [Allen James Vestal](https://twitter.com/allanjvestal)
+- [Ariana Giorgi](https://twitter.com/ArianaNGiorgi)
+- [Dana Amihere](https://twitter.com/write_this_way)
+- [Layne Smith](https://twitter.com/laynesmith)
