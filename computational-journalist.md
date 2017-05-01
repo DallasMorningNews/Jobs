@@ -18,7 +18,7 @@ The right candidate has sound news judgment, is a facile writer of code (and som
 - Have experience producing clean code with clear documentation and collaborating on development projects. Made open-source software before? Awesome. Tell us about it.
 - Have a Bachelor's degree or equivalent work experience.
 
-Interested? Questions? Contact John Hancock at [jhancock@dallasnews.com](mailto:jhancock@dallasnews.com) or [@Hancock_JohnD](https://twitter.com/hancock_johnd). Also, feel free to reaching out to anyone on our team for questions: 
+Interested? Questions? Contact John Hancock at [jhancock@dallasnews.com](mailto:jhancock@dallasnews.com) or [@Hancock_JohnD](https://twitter.com/hancock_johnd). Also, feel free to reach out to anyone on our team for questions: 
 
 - [Andrew Chavez](https://twitter.com/adchavez)
 - [Allan James Vestal](https://twitter.com/allanjvestal)
