@@ -21,7 +21,7 @@ The right candidate has sound news judgment, is a facile writer of code (and som
 Interested? Questions? Contact John Hancock at [jhancock@dallasnews.com](mailto:jhancock@dallasnews.com) or [@Hancock_JohnD](https://twitter.com/hancock_johnd). Also, feel free to reaching out to anyone on our team for questions: 
 
 - [Andrew Chavez](https://twitter.com/adchavez)
-- [Allen James Vestal](https://twitter.com/allanjvestal)
+- [Allan James Vestal](https://twitter.com/allanjvestal)
 - [Ariana Giorgi](https://twitter.com/ArianaNGiorgi)
 - [Dana Amihere](https://twitter.com/write_this_way)
 - [Layne Smith](https://twitter.com/laynesmith)
