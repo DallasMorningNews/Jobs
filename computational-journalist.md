@@ -2,9 +2,9 @@
 
 *The Dallas Morning News* is looking for a computational journalist to join its newsroom.
 
-The right candidate has a complementary mix of code skills and journalism chops. She or he will help in our emphasis on developing our interactive, graphic and otherwise visual storytelling online while continuing **The News'** tradition of statistically sophisticated and data-dense accountability journalism.
+The right candidate has a complementary mix of code skills and journalism chops. She or he will help in our emphasis on developing our interactive, graphic and otherwise visual storytelling online while continuing *The News'* tradition of statistically sophisticated and data-dense accountability journalism.
 
-The position will be part of **The News'** Data and Interactives team, but whoever fills it will range across beats to support data-driven and visual journalism all over the newsroom. She or he will build their own storytelling through online graphics, dataviz and maps; help develop newsroom tools and collaborate with reporters, editors and photographers to craft interactives.
+The position will be part of *The News'* Data and Interactives team, but whoever fills it will range across beats to support data-driven and visual journalism all over the newsroom. She or he will build their own storytelling through online graphics, dataviz and maps; help develop newsroom tools and collaborate with reporters, editors and photographers to craft interactives.
 
 The right candidate has sound news judgment, is a facile writer of code (and sometimes copy), works easily across departments within the newsroom and coolly manages deadlines.
 
