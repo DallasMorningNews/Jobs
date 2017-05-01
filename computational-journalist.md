@@ -1,6 +1,6 @@
 ## Computational Journalist
 
-**The Dallas Morning News* is looking for a computational journalist to join its newsroom.
+*The Dallas Morning News* is looking for a computational journalist to join its newsroom.
 
 The right candidate has a complementary mix of code skills and journalism chops. She or he will help in our emphasis on developing our interactive, graphic and otherwise visual storytelling online while continuing **The News'** tradition of statistically sophisticated and data-dense accountability journalism.
 
