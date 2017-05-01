@@ -2,7 +2,7 @@
 
 # DMN developers and data journalists
 
-We are a collection of developers, designers and data journalists writing code to save journalism and democracy in North Texas.
+We are a collection of developers, designers and data journalists doing great journalism through code and design.
 
 ## Want to join us? We've got seats open:
 
