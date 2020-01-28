@@ -6,4 +6,3 @@ We are a collection of developers, designers and data journalists doing great jo
 
 ## Want to join us? We've got seats open:
 
-### [Interactives Editor](interactives-editor.md)
