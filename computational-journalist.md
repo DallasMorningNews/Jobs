@@ -21,7 +21,7 @@ The *The News'* data and interactive design team is comprised of computational j
 - Experienced in front-end development skills, specifically HTML, CSS and Javascript.
 - Experienced in the fundamentals of data analysis and visualization.
 - Familiarity with a scripting language. We use Python, but we realize there's no one way to do something.
-- Familiarity with data visualization libraries such as d3.js and mapboxgl.js.
+- Familiarity with data visualization libraries such as D3.js and MapboxGL.js.
 - Other skills we use that if you have, awesome! If not, we'd love to help you acquire them: Django, QGIS, Gulp, PostgreSQL and Vue.js, among others.
 
 Interested? Questions? Contact John Hancock at [jhancock@dallasnews.com](mailto:jhancock@dallasnews.com) or [@Hancock_JohnD](https://twitter.com/hancock_johnd). Apply here (link tk). Also, feel free to reach out to anyone on our team for questions: 
