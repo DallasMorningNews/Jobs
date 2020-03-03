@@ -24,7 +24,7 @@ As part of *The News'* data and interactive design team, you will fill one of th
 - Familiarity with data visualization libraries such as D3.js and MapboxGL.js.
 - Other skills we use that if you have, awesome! If not, we'd love to help you acquire them: Django, QGIS, Gulp, PostgreSQL and Vue.js, among others.
 
-Interested? Questions? Contact John Hancock at [jhancock@dallasnews.com](mailto:jhancock@dallasnews.com) or [@Hancock_JohnD](https://twitter.com/hancock_johnd). Apply here (link tk). Also, feel free to reach out to anyone on our team for questions: 
+Interested? Questions? Contact John Hancock at [jhancock@dallasnews.com](mailto:jhancock@dallasnews.com) or [@Hancock_JohnD](https://twitter.com/hancock_johnd). Apply here https://bit.ly/32TE140. Also, feel free to reach out to anyone on our team for questions: 
 
 - [Ariana Giorgi](mailto:agiorgi@dallasnews.com), Senior Computational Journalist
 - [James Wilkerson](mailto:james.wilkerson@dallasnews.com), Senior Computational Journalist
